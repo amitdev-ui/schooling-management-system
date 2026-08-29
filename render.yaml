@@ -14,5 +14,3 @@ services:
     envVars:
       - key: DB_PATH
         value: /data/sms.db
-      - key: PORT
-        value: "10000"
